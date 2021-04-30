@@ -1,0 +1,27 @@
+.iner_task{
+    padding: 5%;
+    border-radius: 10px;
+    background-color: lightseagreen;
+}
+
+.button{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: gray;
+    padding: 0px;
+    float: right;
+}
+
+.add-file{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: greenyellow;
+    padding: 0px;
+    float: left;
+}
+
+.createTask{
+    font-size: 13px;
+}
